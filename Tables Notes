@@ -30,5 +30,6 @@ The col value makes it clear that a certain title goes with a specific column.
         <p>By nature, tables are typically boring, bland, and an overall disaster, just like contemporary art.
 Unlike art though, HTML tables have a way to look good by getting a makeover with CSS.
 With CSS, you can change and alter the font size, colour, add borders, and control their sizes too.</p>
+<img src="https://img.webnots.com/2013/12/HTML-Table-Structure.png"target/>
    </body>
 </html>   
