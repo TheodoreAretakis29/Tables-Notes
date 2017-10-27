@@ -1,0 +1,7 @@
+<h1> Tables </h1>
+  In most websites, there are tables that are used to display information and this is the case because they are capable of presenting data and info very eficiently. 
+ The <th> element allows one to to add titles to their rows.
+ Using the colspan attribute, one can spread something across multiple columns. 
+ The rowspan element is one that is used for information that spans mutiple rows in a graph. 
+ The thead element is used to section off the headings.
+ The tfoot element can be used to section off the bottom of a graph. 
